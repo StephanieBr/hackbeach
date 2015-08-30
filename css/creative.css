@@ -1,3 +1,4 @@
+
 /*!
  * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -199,17 +200,17 @@ header .header-content {
 
 header .header-content .header-content-inner h1 {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 35px;
     font-weight: 700;
     color: #FFDB01;
-    font-size: 64px !important;
+    font-size: 55px !important;
 }
 
 
 
 header .header-content .header-content-inner p {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
     color: #FFDB01;
         
@@ -222,7 +223,7 @@ header .header-content .header-content-inner p {
 
     header .header-content {
         position: absolute;
-        top: 52%;
+        top: 54%;
         padding: 0 50px;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
@@ -239,7 +240,7 @@ header .header-content .header-content-inner p {
 }
 
     header .header-content .header-content-inner p {
-        margin-top: 10px;
+        margin-top: 15px;
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
@@ -361,8 +362,8 @@ header .header-content .header-content-inner p {
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
     border-color: #ededed;
-    color: #222;
-    background-color: #f2f2f2;
+    color: white;
+    background-color: #52C0A7;
 }
 
 .btn-default:active,
@@ -498,4 +499,9 @@ body {
     border-radius: 0px !important;
     padding: 20px;
 
+}
+
+.attribution {
+    font-size: 12px;
+    padding-right: 12px;
 }
