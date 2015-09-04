@@ -240,7 +240,7 @@ header .header-content .header-content-inner p {
 }
 
     header .header-content .header-content-inner p {
-        margin-top: 15px;
+        margin-top: 10px;
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
@@ -499,6 +499,9 @@ body {
     border-radius: 0px !important;
     padding: 20px;
 
+}
+a{
+    text-decoration: none !important;
 }
 
 .attribution {
