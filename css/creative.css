@@ -513,3 +513,6 @@ a{
 #participation .container .row a{
     color: #333333;
 }
+.small-dates {
+    font-size: medium !important;
+}
