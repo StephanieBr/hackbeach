@@ -514,5 +514,11 @@ a{
     color: #333333;
 }
 .small-dates {
+    margin-top: -20px !important;
     font-size: medium !important;
+}
+
+.small-dates a, .small-dates a:hover {
+    color: #FFDB01;
+    text-decoration: underline !important;
 }
